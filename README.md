@@ -56,7 +56,7 @@ const socials = [
                     bind:value={social.link}
                 />
             </label>
-        {/each}
+{/each}
 ```
 
 ### Continued development
@@ -84,7 +84,7 @@ npm run dev
 
 -   Website - [kevinmok.com](https://kevinmok.com)
 -   GitHub - [@kevmok](https://www.github.com/Kevmok)
--   Twitter - [@lkBoxer](https://www.github.com/lkBoxer)
+-   Twitter - [@lkBoxer](https://twitter.com/hustlerBoxer)
 
 ## Acknowledgements
 
